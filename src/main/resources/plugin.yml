@@ -1,0 +1,6 @@
+name: LastLocation
+version: '1.0-SNAPSHOT'
+main: dev.hytical.LastLocation
+api-version: '1.21'
+authors: [HyticMC]
+website: https://guns.lol/hytical
